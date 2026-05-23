@@ -2,7 +2,7 @@
 Blessing Dan | DecodeLabs | Batch 2026
 
 
- 📌 Overview
+ 📌 Overview------
 This project is the foundation phase of the DecodeLabs 
 Data Analytics Internship. The goal is to clean a raw 
 e-commerce dataset by handling missing values, checking 
@@ -11,7 +11,7 @@ a reliable dataset ready for analysis.
 
  
  
- 🎯 Goal
+ 🎯 Goal ----
 Clean a raw dataset by handling missing values, 
 duplicates, and incorrect data formats.
 
