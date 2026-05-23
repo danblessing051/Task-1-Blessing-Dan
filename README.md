@@ -6,14 +6,19 @@ Blessing Dan | DecodeLabs | Batch 2026
 This project is the foundation phase of the DecodeLabs 
 Data Analytics Internship. The goal is to clean a raw 
 e-commerce dataset by handling missing values, checking 
-for duplicates, and correcting data formats to produce 
+for duplicates, and correcting data formats to produce
 a reliable dataset ready for analysis.
 
+ 
+ 
  🎯 Goal
 Clean a raw dataset by handling missing values, 
 duplicates, and incorrect data formats.
 
 
+
+ 
+ 
  ✅ Key Requirements Completed
 - Identified missing or null values
 - Checked and confirmed zero duplicate records
@@ -21,6 +26,8 @@ duplicates, and incorrect data formats.
 - Documented all changes in a Change Log
 
 
+
+ 
  🔑 Key Findings
 
 | Check | Result |
@@ -33,6 +40,9 @@ duplicates, and incorrect data formats.
 | Dataset Status | Clean & Ready for EDA |
 
 
+
+ 
+ 
  ⚙ Verification Gate
 
 | Check | Status |
@@ -41,17 +51,26 @@ duplicates, and incorrect data formats.
 | 0% Error Rate on Date Formats | ✅ PASSED |
 
 
+
+ 
  🛠 Tools Used
 - Python
 - Pandas
 - Numpy
 - Google Colab
 
+
+ 
+ 
  📁 Files
 - Changelog.pdf` — Full documentation of all changes
 - Dataset.csv` — Raw dataset used
 - Data Cleaning and preparation file
 
+
+ 
+ 
+ 
  ▶ How to Run
 
 1. Open Google Colab at colab.research.google.com
@@ -62,6 +81,9 @@ duplicates, and incorrect data formats.
 6. Run each cell one by one using Shift + Enter
 
 
+
+ 
+ 
  🎓 About
 Intern:       Blessing Dan
 Institution:  University of Uyo, Akwa Ibom State, Nigeria
@@ -70,10 +92,14 @@ Organization: DecodeLabs Industrial Training
 Batch:        2026
 
 
+
+ 
  📞 Contact
  📧 Email: danblessing051@mail.com
  💼 LinkedIn: linkedin.com/in/yourprofile
  ⚡ GitHub: github.com/yourusername
+
+
 
 
 *DecodeLabs Batch 2026 — Data Analytics Internship*
