@@ -97,7 +97,7 @@ Batch:        2026
  📞 Contact
  📧 Email: danblessing051@mail.com
  💼 LinkedIn: linkedin.com/in/yourprofile
- ⚡ GitHub: github.com/yourusername
+ ⚡ GitHub: https://github.com/danblessing051/Task-1-Blessing-Dan.git
 
 
 
